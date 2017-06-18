@@ -1,0 +1,22 @@
+{
+  "name": "hugo-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subzerofun/dato-cms-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/subzerofun/dato-cms-test/issues"
+  },
+  "homepage": "https://github.com/subzerofun/dato-cms-test#readme",
+  "description": "",
+  "devDependencies": {
+    "datocms-client": "^0.3.25"
+  }
+}
